@@ -17,3 +17,25 @@ This includes more complex data structures. This is again split into ***linear a
 
 - Non linear data structure :
     > This is of types ***Hierarchical and unordered*** Hierarchical data structures are tree, trie, heap, etc. Unordered data structures include graphs, sets, hash tables that have no specific order in the way they store data.
+
+# Day 2
+
+## Asymptotic notations
+> It is the mathematical way of representing time and space complexity of an algorithm. 
+
+There are 3 notations
+ - Big-O
+ - Big-Omega
+ - Big-Theta
+
+ ### Big-O
+ > Represents the highest time taken by the algorithm
+
+ ### Big-Omega
+ > Represents the lowest time taken by the algorithm
+
+ ### Big-Theta
+ > Represents the average time taken by the algorithm
+
+ ![Screenshot of Big-O cheat sheet](https://www.designgurus.io/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Fdownload%2Fstorage%2Fv1%2Fb%2Fdesigngurus-prod.appspot.com%2Fo%2F938f53e05be700fa21b061600%3Fgeneration%3D1704324487252991%26alt%3Dmedia&w=3840&q=75)
+
