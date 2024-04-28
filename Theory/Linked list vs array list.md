@@ -1,0 +1,2 @@
+### Linked List vs Array list
+Linked list is much faster compared to Arraylist because everytime the arraylist size is filled, it will create a new array list which is double in size and copy the elements to that new array list which takes O(n). But in linked list there is no need for this since there is no requirement for contiguous address allocation. The address allocations can be discontinuous and still new elements can be added without the need for copying elements to new data structure when the size is breached. So it is always O(1) for insertions.
