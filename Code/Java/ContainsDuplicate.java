@@ -6,7 +6,7 @@ import java.util.Set;
 
 public class ContainsDuplicate {
 
-    // This was the fastest. Add elements to a set and if something already exists then return true.
+    // This was the fastest. Add elements to a set and if something already exists then return true
     public boolean containsDuplicate(int[] nums) {
         Set<Integer> set = new HashSet();
 
