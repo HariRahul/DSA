@@ -10,7 +10,7 @@ public class ContainsDuplicate {
     public boolean containsDuplicate(int[] nums) {
         Set<Integer> set = new HashSet();
 
-        // Remember to not compare length. Instead use contains.
+        // Remember to not compare length. Instead use contains
         for (int i : nums){
             if (!set.contains(i))
                 set.add(i);
